@@ -14,7 +14,7 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 ## Fun Facts:
 - 📚 I'm a part-time tutor in English, SAT, and Computer Science. My enjoyment with teaching originates from my desire to generate my own source of income and help my students reach their personal goals.
 - 🔭 When I'm not coding, I visit museums and small startups. My favorite place so far is Air Company's Headquarters. As a person who believes that good ideas come from exaptation, I'm fascinated by the startup's idea to repurpose carbon dioxide into creating perfumes, air spray, and even vodka!
-- 🗞 By the same token, I am avid follower of science news. To get the latest scoop, I'm a part of my college's STEM magazine and research journal!
+- 🗞 By the same token, I am avid follower of science news. To get the latest scoop, I take part in my college's STEM magazine and research journal, as a layout designer and peer reviewer!
 
 ## How To Reach Me?
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ngan-ho-3027461a4/)

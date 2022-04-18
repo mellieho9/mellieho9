@@ -4,15 +4,15 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 
 ## About Me:
 - 🔬 I'm a UI/UX designer and computational researcher, who is interested in Human-Computer Interactions and AI.
-- 💻 In my free time, I develop wellness and productivity apps catering to niche populations. My most recent project involves conceptualizing [a financial assistant tool for cognition-declining elders](https://devpost.com/software/finnacle-16vxg2). 
+- 💻 In my free time, I develop health and productivity apps. My most recent project involves building [a Web3 application that gives people the choice to sell their health-tracking data, in exchange for cryptocurrency and lifestyle suggestions](https://devpost.com/software/altru). 
 - 👩🏻 My pronouns - She/her/hers.
 
 ## I'm Currently Working On:
-- Building a simple cyclic voltammetry simulation for [a voltammetry parameter inference model](https://github.com/mellieho9/Voltammogram-Parameter-Inference) 
-- Building another version of the bioinformatics-learning platform [Rosalind](https://rosalind.info/problems/locations/) for Computational Chemistry students
+- Completing deeplearning.ai's ["AI for Medicine specialization"] (https://www.coursera.org/specializations/ai-for-medicine) 
+- Learning how to implement Automatic differentiation for my [voltammetry parameter inference model project](https://github.com/mellieho9/Voltammogram-Parameter-Inference) 
 
 ## Fun Facts:
-- 📚 I'm a part-time tutor in English, SAT, and Computer Science. My enjoyment with teaching originates from my desire to generate my own source of income and help my students reach their personal goals.
+- 📚 I'm a part-time tutor in STEM. My enjoyment with teaching originates from my desire to generate my personal income and help my peers reach their personal goals.
 - 🔭 When I'm not coding, I visit museums and small startups. My favorite place so far is Air Company's Headquarters. As a person who believes that good ideas come from exaptation, I'm fascinated by the startup's idea to repurpose carbon dioxide into creating perfumes, air spray, and even vodka!
 - 🗞 By the same token, I am avid follower of science news. To get the latest scoop, I take part in my college's STEM magazine and research journal, as a layout designer and peer reviewer!
 

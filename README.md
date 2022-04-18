@@ -8,7 +8,7 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 - 👩🏻 My pronouns - She/her/hers.
 
 ## I'm Currently Working On:
-- Completing deeplearning.ai's ["AI for Medicine specialization"] (https://www.coursera.org/specializations/ai-for-medicine) 
+- Completing deeplearning.ai's [AI for Medicine specialization](https://www.coursera.org/specializations/ai-for-medicine) 
 - Learning how to implement Automatic differentiation for my [voltammetry parameter inference model project](https://github.com/mellieho9/Voltammogram-Parameter-Inference) 
 
 ## Fun Facts:

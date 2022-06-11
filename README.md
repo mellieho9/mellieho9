@@ -8,13 +8,14 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 - 👩🏻 My pronouns - She/her/hers.
 
 ## I'm Currently Working On:
+- Completing LinkedIn Learning's [Introduction to Data Structures and Algorithms in Java](https://www.linkedin.com/learning/introduction-to-data-structures-algorithms-in-java)
 - Completing deeplearning.ai's [AI for Medicine specialization](https://www.coursera.org/specializations/ai-for-medicine) 
-- Learning how to implement Automatic differentiation for my [voltammetry parameter inference model project](https://github.com/mellieho9/Voltammogram-Parameter-Inference) 
+- Creating a personal portfolio
 
 ## Fun Facts:
 - 📚 I'm a part-time tutor in STEM. My enjoyment with teaching originates from my desire to generate my personal income and help my peers reach their personal goals.
 - 🔭 When I'm not coding, I visit museums and small startups. My favorite place so far is Air Company's Headquarters. As a person who believes that good ideas come from exaptation, I'm fascinated by the startup's idea to repurpose carbon dioxide into creating perfumes, air spray, and even vodka!
-- 🗞 By the same token, I am avid follower of science news. To get the latest scoop, I take part in my college's STEM magazine and research journal, as a layout designer and peer reviewer!
+- 🗞 By the same token, I am avid follower of science news. I would recommend VERSE and Quanta Magazine for anyone who is interested!
 
 ## How To Reach Me?
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ngan-ho-3027461a4/)

@@ -4,7 +4,7 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 
 ## About Me:
 - 🔬 I'm a UI/UX designer and computational researcher, who is interested in Human-Computer Interactions and AI.
-- 💻 In my free time, I develop health and productivity apps. My most recent project involves building [a Web3 application that gives people the choice to sell their health-tracking data, in exchange for cryptocurrency and lifestyle suggestions](https://devpost.com/software/altru). 
+- 💻 In my free time, I develop health and productivity apps. My most recent project involves building [a web application that allows people to make conscious traveling decisions and contribute to medical research through an ill-ness exposure dashboard, AI-powered health tracking and diagnosis tool, and SMS survey](https://devpost.com/software/altru). 
 - 👩🏻 My pronouns - She/her/hers.
 
 ## I'm Currently Working On:

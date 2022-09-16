@@ -8,8 +8,7 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 - 👩🏻 My pronouns - She/her/hers.
 
 ## I'm Currently Working On:
-- Completing LinkedIn Learning's [Introduction to Data Structures and Algorithms in Java](https://www.linkedin.com/learning/introduction-to-data-structures-algorithms-in-java)
-- Completing deeplearning.ai's [AI for Medicine specialization](https://www.coursera.org/specializations/ai-for-medicine) 
+- Expanding categories of information HackNC's web scraping tool could extract to reduce judge-matching time
 
 ## Fun Facts:
 - 📚 I'm a part-time tutor in STEM. My enjoyment with teaching originates from my desire to generate my personal income and help my peers reach their personal goals.

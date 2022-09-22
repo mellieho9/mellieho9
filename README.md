@@ -8,7 +8,8 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 - 👩🏻 My pronouns - She/her/hers.
 
 ## I'm Currently Working On:
-Expanding categories of information HackNC's web scraping tool could extract to reduce judge-matching time
+- Leading 4 students through developing a tool used by the logistic team to extract information from 35 Devpost projects and match each project with the appropriate judges (Python, urllib, Beautiful Soup, Google Drive API).
+- Implementing a responsive page presenting during-event information to 100+ hackers (Google Maps API, HTML, CSS).
 
 ## Fun Facts:
 - 📚 I'm a part-time tutor in STEM. My enjoyment with teaching originates from my desire to generate my personal income and help my peers reach their personal goals.

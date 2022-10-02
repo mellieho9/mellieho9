@@ -3,13 +3,13 @@
 Thank you for visiting my Github profile. I'm thrilled to have you here!
 
 ## About Me:
-- 🔬 I'm a UI/UX designer and computational researcher, who is interested in Human-Computer Interactions, AI, and developing technology for good.
+- 🔬 I'm a UI/UX designer, computational researcher, and full-stack developer who is interested in Human-Computer Interactions, AI, and developing technology for good.
 - 💻 In my free time, I develop health and productivity apps. My most recent project involves building [a journal that quantitatively and qualitatively measures the user's stress level to provide appropriate mental health recommendations](https://devpost.com/software/neuro-journal). 
 - 👩🏻 My pronouns - She/her/hers.
 
 ## I'm Currently Working On:
-- Leading 4 students through developing a tool used by the logistic team to extract information from 35 Devpost projects and match each project with the appropriate judges (Python, urllib, Beautiful Soup, Google Drive API).
-- Implementing a responsive page presenting during-event information to 100+ hackers (Google Maps API, HTML, CSS).
+- Developing a tool used by the logistic team to extract information from 35 Devpost projects and match each project with the appropriate judges (Python, urllib, Beautiful Soup, Google Drive API).
+- Creating a visualization dashboard consolidating Google Form data for the Environmental Educators of North Carolina.
 
 ## Fun Facts:
 - 📚 I'm a part-time tutor in STEM. My enjoyment with teaching originates from my desire to generate my personal income and help my peers reach their personal goals.

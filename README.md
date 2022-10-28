@@ -8,7 +8,8 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 - 👩🏻 My pronouns - She/her/hers.
 
 ## I'm Currently Working On:
-- Developing a tool used by the logistic team to extract information from 35 Devpost projects and match each project with the appropriate judges (Python, urllib, Beautiful Soup, Google Drive API).
+- Applying for Summer 2023 internships!
+- Developing a website for UNC's Women in Computer Science.
 - Creating a visualization dashboard consolidating Google Form data for the Environmental Educators of North Carolina.
 
 ## Fun Facts:

@@ -5,7 +5,7 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 ## About Me:
 - 🔬 I'm a computational researcher and full-stack developer who is interested in Human-Computer Interactions, AI, and developing technology for good.
 - 💻 I take self-learning seriously. I use my free time to expand my tech stack through CodeAcademy as well as building hackathon/personal projects. This semester, I have learned Swift programming through building [Teammates](https://github.com/mellieho9/teammate), React Native and TailWindCSS through building [Deliveroo](https://github.com/mellieho9/deliveroo), and Material UI/Context API through building my [first messenger app](https://github.com/mellieho9/Tawk). 
-- 👩🏻 Other words to describe myself: Overplanner, enthusiastic, creative, and workaholic.
+- 👩🏻 Other words to describe me: Overplanner, enthusiastic, creative, and workaholic.
 
 ## I'm Currently Working On:
 - Applying for Summer 2023 internships!

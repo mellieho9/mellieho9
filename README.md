@@ -4,12 +4,13 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 
 ## About Me:
 - 🔬 I'm a computational researcher and full-stack developer who is interested in Human-Computer Interactions, AI, and developing technology for good.
-- 💻 I take self-learning seriously. I use my free time to expand my tech stack through CodeAcademy as well as building hackathon/personal projects. This semester, I have learned Swift programming through building [Teammates](https://github.com/mellieho9/teammate), React Native and TailWindCSS through building [Deliveroo](https://github.com/mellieho9/deliveroo), and Material UI/Context API through building my [first messenger app](https://github.com/mellieho9/Tawk). 
+- 💻 I take self-learning seriously. I use my free time to expand my tech stack through CodeAcademy as well as building hackathon/personal projects. This semester, I am learning advanced IOS development as an apprentice at App Team Carolina, data visualization and cloud database to deliver a solution for the Environmental Educators of North Carolina,and and Material UI/Context API through building my [first messenger app](https://github.com/mellieho9/Tawk)
 - 👩🏻 Other words to describe me: Overplanner, enthusiastic, creative, and workaholic.
 
 ## I'm Currently Working On:
 - Applying for Summer 2023 internships!
-- Developing a website for UNC's Women in Computer Science.
+- Learning and building full-stack iOS products as an apprentice at App Team Carolina
+- Delivering a data visualization dashboard for the Environmental Educators of North Carolina
 - Developing an algorithm to summarize / generate interactive dialogues from Ego4D video datasets + Overseeing the development of a visualization dashboard for the Parkinson project at UNC's Computer Vision lab.
 - Analyzing preliminary survey data for a startup project with a student at Harvard Business School.
 

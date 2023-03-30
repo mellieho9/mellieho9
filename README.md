@@ -8,7 +8,6 @@ Thank you for visiting my Github profile. I'm thrilled to have you here!
 - 👩🏻 Other words to describe me: Overplanner, enthusiastic, creative, and workaholic.
 
 ## I'm Currently Working On:
-- Applying for Summer 2023 internships!
 - Learning and building full-stack iOS products as an apprentice at App Team Carolina
 - Delivering a data visualization dashboard for the Environmental Educators of North Carolina
 - Developing an algorithm to summarize / generate interactive dialogues from Ego4D video datasets + Overseeing the development of a visualization dashboard for the Parkinson project at UNC's Computer Vision lab.

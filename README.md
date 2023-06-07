@@ -1,22 +1,22 @@
-# Hi there 👋
+# Hi there! 👋
 
-Thank you for visiting my Github profile. I'm thrilled to have you here!
+Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 
 ## About Me:
-- 🔬 I'm a computational researcher and full-stack developer who is interested in Human-Computer Interactions, AI, and developing technology for good.
-- 💻 I take self-learning seriously. I use my free time to expand my tech stack through CodeAcademy as well as building hackathon/personal projects. This semester, I am learning advanced IOS development as an apprentice at App Team Carolina, data visualization and cloud database to deliver a solution for the Environmental Educators of North Carolina,and and Material UI/Context API through building my [first messenger app](https://github.com/mellieho9/Tawk)
+- 🔬 I'm a computational researcher and full-stack developer passionate about Human-Computer Interactions, AI, and using technology for good.
+- 💻 I take self-learning seriously and constantly expand my tech stack through CodeAcademy and building hackathon/personal projects. Currently, I'm collaborating with 5 interns at Genesys to improve our internal communication app, and exploring MongoDB Atlas and Databricks in my personal projects.
 - 👩🏻 Other words to describe me: Overplanner, enthusiastic, creative, and workaholic.
 
 ## I'm Currently Working On:
-- Learning and building full-stack iOS products as an apprentice at App Team Carolina
-- Delivering a data visualization dashboard for the Environmental Educators of North Carolina
-- Developing an algorithm to summarize / generate interactive dialogues from Ego4D video datasets + Overseeing the development of a visualization dashboard for the Parkinson project at UNC's Computer Vision lab.
-- Analyzing preliminary survey data for a startup project with a student at Harvard Business School.
+- Localizing the UI of an upcoming feature at Genesys as well so migrating it to Apache Kafka. 
+- Planning the next project at UNC's Computer Science & Social Good.
+- Co-authoring a paper on summarizing hour-long videos using LLMs and Ego4D datasets.
+- Preparing for the upcoming recruiting season!
 
 ## Fun Facts:
-- 📚 My long-term trajectory is to pursue a pHD in AI. I am just amazed at how AI can be used to address so many problems and am overseeing research projects to discover what I want to concentrate on in the future.
-- 🔭 When I'm not coding, I visit museums and small startups. My favorite place so far is Air Company's Headquarters. As a person who believes that good ideas come from exaptation, I'm fascinated by the startup's idea to repurpose carbon dioxide into creating perfumes, air spray, and even vodka!
-- 🗞 By the same token, I am avid follower of science news. I would recommend VERSE and Quanta Magazine for anyone who is interested!
+- 📚 My long-term trajectory is to pursue a PhD in AI. I'm amazed at how AI can address various problems and I'm currently involved in research projects to discover my future focus.
+- 🔭 When I'm not coding, I love visiting museums and exploring small startups. This summer, I hope to explore all the museums under Smithsonian. 
+- 🗞 I'm an avid follower of science news and I recommend VERSE and Quanta Magazine to anyone interested!
 
 ## How To Reach Me?
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/meliora-ho/)

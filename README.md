@@ -29,4 +29,4 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 ## How To Reach Me?
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/meliora-ho/)
 [![devpost](https://img.shields.io/badge/Devpost-0078D7?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/melioraho9?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:meliorah@ad.unc.edu)
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:melioraho9@gmail.com)

@@ -16,7 +16,7 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 - 🚀 Tools: Git, Docker, Apache Kafka
 
 ## I'm Currently Working On:
-- Localizing the UI of an upcoming feature at Genesys as well so migrating it to Apache Kafka.
+- Localizing the UI of an upcoming feature at Genesys as well as migrating it to Apache Kafka.
 - Planning the next project at UNC's Computer Science & Social Good.
 - Co-authoring a paper on summarizing hour-long videos using LLMs and Ego4D datasets.
 - Preparing for the upcoming recruiting season!

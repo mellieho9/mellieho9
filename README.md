@@ -15,11 +15,9 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 - 🚀 Tools: Git, Docker, Apache Kafka
 
 ## I'm Currently Working On:
-- Collaborating with 10+ engineers to deliver a package that enables contact center agents to use Genesys Cloud on Salesforce UI.
 - Building the marketing website for Pearl Hacks 2024.
 - Planning the next project at UNC's Computer Science & Social Good.
 - Finishing my part of the paper on summarizing hour-long videos using LLMs and Ego4D datasets.
-- Preparing for the upcoming recruiting season!
 
 ## Fun Facts:
 - 📚 My long-term trajectory is to pursue a PhD in AI. I'm amazed at how AI can address various problems and I'm currently involved in research projects to discover my future focus.

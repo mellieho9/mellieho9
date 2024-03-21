@@ -4,7 +4,7 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 
 ## About Me:
 - 🔬 I'm a computational researcher and full-stack developer passionate about SWE, AI/ML, and using technology for good.
-- 💻 I take self-learning seriously and constantly expand my tech stack through CodeAcademy, reading technical documentation, and building hackathon/personal projects. Currently, I'm exploring Apex, microservice architecture, and distributed systems!
+- 💻 I take self-learning seriously and constantly expand my tech stack through CodeAcademy, reading technical documentation, and building hackathon/personal projects. Currently, I'm exploring GraphQL, Flutter, and LLMs!
 - 👩🏻 Other words to describe me: Overplanner, enthusiastic, creative, and workaholic.
 
 ## Tech Stack:
@@ -15,9 +15,9 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 - 🚀 Tools: Git, Docker, Apache Kafka
 
 ## I'm Currently Working On:
-- Building the marketing website for Pearl Hacks 2024.
-- Planning the next project at UNC's Computer Science & Social Good.
-- Finishing my part of the paper on summarizing hour-long videos using LLMs and Ego4D datasets.
+- Building an internal app for cheating detection and project categorization for Pearl Hacks.
+- Redesigning Compass Center's data management platform at CS+SG.
+- Brainstorming my next research topic.
 
 ## Fun Facts:
 - 📚 My long-term trajectory is to pursue a PhD in AI. I'm amazed at how AI can address various problems and I'm currently involved in research projects to discover my future focus.

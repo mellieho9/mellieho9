@@ -15,9 +15,8 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 - 🚀 Tools: Git, Docker, Apache Kafka
 
 ## I'm Currently Working On:
-- Building an internal app for cheating detection and project categorization for Pearl Hacks.
-- Redesigning Compass Center's data management platform at CS+SG.
-- Brainstorming my next research topic.
+- Building an internal app for managing hackathon submissions for Pearl Hacks.
+- Creating a benchmark for Video-LLM Q&A models
 
 ## Fun Facts:
 - 📚 My long-term trajectory is to pursue a PhD in AI. I'm amazed at how AI can address various problems and I'm currently involved in research projects to discover my future focus.
@@ -27,4 +26,4 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 ## How To Reach Me?
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/meliora-ho/)
 [![devpost](https://img.shields.io/badge/Devpost-0078D7?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/melioraho9?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:melioraho9@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:meliorah.work@gmail.com)

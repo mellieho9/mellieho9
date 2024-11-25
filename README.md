@@ -16,7 +16,7 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 
 ## I'm Currently Working On:
 - Building an internal app for managing hackathon submissions for Pearl Hacks.
-- Creating a benchmark for Video-LLM Q&A models
+- Building an annotation management app for a large-scale video dataset project at Gedas lab
 
 ## Fun Facts:
 - 📚 My long-term trajectory is to pursue a PhD in AI. I'm amazed at how AI can address various problems and I'm currently involved in research projects to discover my future focus.

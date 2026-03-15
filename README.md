@@ -7,7 +7,7 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 - Former researcher in the Computer Vision space, still very interested in AI engineering and research
 
 ## What I'm working on
-- 🗺️ **Wandr** — Agentic AI engine that extracts structured data from any URL into any workspace
+- 🗺️ **Wandr** - Agentic AI engine that extracts structured data from any URL into any workspace
 - 🤓 **Personal pricing platform** - Learning how to use Ray to deploy distributed compute-intensive pricing models
 - 🍵 **Pottery and home cafes** - Rekindling my love for art and cooking
 

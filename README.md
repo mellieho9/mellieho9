@@ -21,4 +21,4 @@ ai_ml      = ["Gemini", "Google ADK", "PyTorch", "TensorFlow", "LLMs"]
 
 ## How To Reach Me?
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/meliora-ho/)
-[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:melioraho9@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:melho.personal@gmail.com)
